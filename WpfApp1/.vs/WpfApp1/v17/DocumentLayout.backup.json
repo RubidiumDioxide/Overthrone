@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WpfApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\messagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|solutionrelative:messagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\storage\\lrn\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\storage\\lrn\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\messagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\storage\\lrn\\wpfapp1\\messagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|solutionrelative:messagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\storage\\lrn\\wpfapp1\\messagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|solutionrelative:messagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\storage\\lrn\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|c:\\users\\user\\storage\\lrn\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B28A79-58C9-4387-9958-0F29EE2B0E31}|WpfApp1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,50 +42,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:06:15.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T11:04:04.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MessageWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\MessageWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MessageWindow.xaml.cs",
               "RelativeDocumentMoniker": "MessageWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\MessageWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MessageWindow.xaml.cs",
               "RelativeToolTip": "MessageWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwBkAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T07:41:47.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MessageWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\MessageWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MessageWindow.xaml",
               "RelativeDocumentMoniker": "MessageWindow.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\MessageWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MessageWindow.xaml",
               "RelativeToolTip": "MessageWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-11T07:39:41.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-10T18:57:26.857Z"
+              "WhenOpened": "2024-11-11T07:39:41.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T18:57:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\storage\\lrn\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwDEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAACVAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T18:57:23.083Z"
+              "WhenOpened": "2024-11-10T18:57:23.083Z",
+              "EditorCaption": ""
             }
           ]
         }

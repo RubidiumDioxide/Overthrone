@@ -17,7 +17,7 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
-        private List<string> lines = new List<string>() { "I've come to bring good news of great joy.", "Do not be afraid, for while you yourself may not recognize me, I know you.", "I know everything about what makes you human.", "I know what you love.", "I know what you dread.", "...", "Anyways get in your bed you moron it's " + DateTime.Now.Hour.ToString() + ":" + DateTime.Now.Minute.ToString() };
+        private List<string> lines = new List<string>() { "I've come to bring good news of great joy.", "Do not be afraid, for while you yourself may not recognize me, I know you.", "I know everything about what makes you human.", "I know what you love.", "I know what you dread.", "...", "Anyways get in your bed you moron it's " + DateTime.Now.Hour.ToString() + ":" + DateTime.Now.Minute.ToString(), "<3" };
         private int i = 0;
         private MessageWindow mw = null;
         public MainWindow()
